@@ -1,0 +1,48 @@
+ body {
+     font-family: Arial, sans-serif;
+     text-align: center;
+     background-color: black;
+ }
+
+ h1 {
+     color: #333;
+ }
+
+ .converter {
+     display: inline-block;
+     margin-top: 20px;
+     padding: 20px;
+     border: 1vw outset #67b0b3;
+     border-radius: 5px;
+     box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+     width: 40%;
+     color: white;
+ }
+
+ .result {
+     font-weight: bold;
+     margin-top: 10px;
+ }
+
+ .input {
+     margin-top: 10px;
+ }
+
+ .input label {
+     display: inline-block;
+     width: 100px;
+     text-align: left;
+ }
+
+ .input input {
+     width: 150px;
+     padding: 5px;
+ }
+
+ .button {
+     margin-top: 10px;
+ }
+
+ .button input {
+     padding: 10px;
+ }
